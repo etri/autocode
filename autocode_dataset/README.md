@@ -180,7 +180,7 @@ You can also simply [open an issue](https://github.com/auto-code-etri/autocode_d
 
 Copyright *On-Device AI Model Research Laboratory, ETRI*.
 
-All rights reserved. For more details, see `LICENSE.txt`.
+All rights reserved. For more details, see `LICENSE`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
