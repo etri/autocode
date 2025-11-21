@@ -146,21 +146,6 @@ Building a database infrastructure that can be used for additional research of s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
-### Crawling Code for Github Project
-
-[`GithubCrawling`][GithubCrawling-url]
-
-This directory contains two crawlers — the **GitHub Crawler** and the **StackOverflow Crawler** — which provide source code for searching projects on each platform and crawling their corresponding source files.
-
-For more details on getting started with each crawler, including installation and usage instructions, see each project’s README:
-- [GitHub Crawler README][GithubCrawler-url]
-- [Stack Overflow Crawler README][StackOverflowCrawler-url]
-
-Although the target source codes are written in C/C++ and Python, there is no language restriction if the code is modified accordingly.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -238,6 +223,3 @@ All rights reserved. For more details, see `LICENSE.txt`.
 [Github-Cpp-2024-url]: https://github.com/auto-code-etri/autocode_dataset/tree/main/Github-Cpp-2024
 [MutMut-url]: https://github.com/auto-code-etri/autocode_dataset/tree/main/MutMut
 [SecureCode-Python-url]: https://github.com/auto-code-etri/autocode_dataset/tree/main/SecureCode-Python
-[GithubCrawling-url]: https://github.com/auto-code-etri/autocode_dataset/tree/main/GithubCrawling
-[GithubCrawler-url]: https://github.com/auto-code-etri/autocode_dataset/tree/main/GithubCrawling/Crawler%20(Source%20Code)/Github%20Crawler
-[StackOverflowCrawler-url]: https://github.com/auto-code-etri/autocode_dataset/tree/main/GithubCrawling/Crawler%20(Source%20Code)/StackOverflow%20Crawler
