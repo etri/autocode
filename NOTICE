@@ -2,8 +2,16 @@ NOTICE
 
 Copyright (C) 2022-2029
 On-Device AI Model Research Lab, ETRI
-Contact Email: sheart@etri.re.kr
 
+Dual License
+### LICENSE
+Data dual License - GPL 3.0, Commercial License
+
+### CONTACT
+If you want to use and/or redistribute this source commercially, 
+please consult sheart@etri.re.kr for details in advance
+
+-------------------------------------------------------
 This software is part of the autocode project.
 
 Unless otherwise noted, all source code, documentation, and associated
@@ -15,4 +23,5 @@ If this project includes third-party libraries or code, each such
 component remains the property of its respective copyright holder and
 is provided under its own license terms. Please refer to the individual
 LICENSE or NOTICE files for those components, if applicable.
+
 
